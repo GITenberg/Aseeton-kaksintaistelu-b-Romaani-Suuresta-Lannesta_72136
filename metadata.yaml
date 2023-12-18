@@ -1,0 +1,40 @@
+_repo: Aseeton-kaksintaistelu-b-Romaani-Suuresta-Lannesta_72136
+_version: 0.0.1
+alternative_title: West. Finnish
+contributor:
+  translator:
+    agent_name: Kesäniemi, Paavo
+    alias: Kesaniemi, Paavo
+    birthdate: 1879
+    deathdate: 1940
+    gutenberg_agent_id: '55475'
+    url: http://www.gutenberg.org/2009/agents/55475
+    wikipedia: https://fi.wikipedia.org/wiki/Paavo_Kes%C3%A4niemi
+creator:
+  author:
+    agent_name: Seltzer, Charles Alden
+    birthdate: 1875
+    deathdate: 1942
+    gutenberg_agent_id: '6812'
+    url: http://www.gutenberg.org/2009/agents/6812
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Alden_Seltzer
+description: ''
+gutenberg_issued: '2023-11-16'
+identifiers:
+  gutenberg: '72136'
+language: fi
+pgterms:marc905: 20230511120501seltzer
+pgterms:marc906: '1926'
+pgterms:marc907: FI
+production_note: Timo Ervasti and Tapio Riikonen
+publication_note: '  $aJyväskylä :$bK. J. Gummerus Oy, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcsh 'Women -- West (U.S.) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'Aseeton kaksintaistelu : $b Romaani Suuresta Lännestä'
+url: http://www.gutenberg.org/ebooks/72136
